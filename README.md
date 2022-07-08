@@ -4,4 +4,9 @@
 - 💞️ I’m looking to collaborate on a project.
 - 📫 To contact me, send an email to lhoanganhquoc@gmail.com.
 
-![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=AnhQuoc533&theme=algolia&show_icons=true)
+<a href="">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=AnhQuoc533&theme=algolia&show_icons=true" />
+</a>
+<a href="">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnhQuoc533&theme=algolia&layout=compact" />
+</a>
