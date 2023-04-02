@@ -14,7 +14,7 @@ An AI enthusiast and diligent Computer Science student with a passion for solvin
 </a>
 </div>
 
-&nbsp;
+ &nbsp;
 
 # 🤙 &nbsp;CONTACT ME
 <a href="https://www.linkedin.com/in/anh-quoc">
