@@ -1,9 +1,6 @@
 # 👋 &nbsp;HI, I'M QUOC
-I am a full-time student at Northern Virginia Community College. My major is Computer Science, and I aim to specialize in Artificial Intelligence.
 
-I am proficient in Python programming and have had several projects made with Python. I also learned about numerous fundamental machine-learning algorithms, and began to study Python at an advanced level.
-
-My lifetime goal is to land a dream job as a machine learning engineer and pursue a research career that will greatly contribute to the advancement of AI in the near future.
+An AI enthusiast and diligent Computer Science student with a passion for solving complex problems using cutting-edge technology and driving innovation. Strong foundation in programming languages such as Python, SQL, and C++, as well as experience with machine learning and deep learning. Aiming to land a dream job as a machine learning engineer and pursue a research career that will greatly contribute to the advancement of the field of AI in the near future.
 
  &nbsp;
 
