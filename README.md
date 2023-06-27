@@ -1,6 +1,6 @@
 # 👋 &nbsp;HI, I'M QUOC
 
-An AI enthusiast and diligent Computer Science student with a passion for solving complex problems using cutting-edge technology and driving innovation. Strong foundation in programming languages such as Python, SQL, and C++, as well as experience with machine learning and deep learning. Aiming to land a dream job as a machine learning engineer and pursue a research career that will greatly contribute to the advancement of the field of AI in the near future.
+An AI enthusiast and diligent Computer Science student equipped with 3+ years of coding experience, specializing in Software Engineering, Data Science, and Artificial Intelligence. Strong foundation in programming languages such as Python, Java, SQL, and C++, as well as experience with machine learning and deep learning. Possessing a passion for solving complex problems using cutting-edge technology and driving innovation. Aiming to pursue a research career that will greatly contribute to the advancement of the field of AI in the near future.
 
  &nbsp;
 
