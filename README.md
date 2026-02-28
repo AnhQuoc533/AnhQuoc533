@@ -7,10 +7,10 @@ An AI enthusiast and diligent Computer Science student equipped with 3+ years of
 # 📊 &nbsp;STATISTICS
 <div align="center">
 <a>
-  <img align="center" height="150em" src="https://github-readme-stats.vercel.app/api?username=AnhQuoc533&theme=algolia&show_icons=true&custom_title=MY%20GITHUB%20STATISTICS" />
+  <img align="center" height="150em" src="https://github-readme-stats-kappa-livid-50.vercel.app/api?username=AnhQuoc533&theme=algolia&show_icons=true&custom_title=MY%20GITHUB%20STATISTICS" />
 </a>
 <a>
-  <img align="center" height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnhQuoc533&theme=algolia&layout=compact&card_width=230" />
+  <img align="center" height="150em" src="https://github-readme-stats-kappa-livid-50.vercel.app/api/top-langs/?username=AnhQuoc533&theme=algolia&layout=compact&card_width=230" />
 </a>
 </div>
 
